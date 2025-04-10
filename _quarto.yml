@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "xshare"
@@ -8,6 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+  page-footer: "Built in Quarto. Powered by a single Raspberry Pi."
 
 format:
   html:

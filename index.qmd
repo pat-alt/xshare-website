@@ -2,6 +2,6 @@
 title: "xshare"
 ---
 
-This is a Quarto website.
+Ever been on a fully electric speed boat? Now you can. Right here in Roermond.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![](www/boat.jpg)

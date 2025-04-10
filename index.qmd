@@ -1,5 +1,5 @@
 ---
-title: ""xshare""
+title: "xshare"
 ---
 
 This is a Quarto website.

@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "content/news/news.html",
+    "href": "content/news/news.html",
     "title": "xshare",
     "section": "",
-    "text": "Ever been on a fully electric speed boat? Now you can. Right here in Roermond."
+    "text": "What? X Shore\n\n\n\n\n\n\n\nWhere? Roermond\n\n\n\n\n\n\n\nWho? Contact\n\n\n\n\n\nPrevoius\n\n\n\nNext"
+  },
+  {
+    "objectID": "what.html",
+    "href": "what.html",
+    "title": "What?",
+    "section": "",
+    "text": "X Shore is a pioneering producer of electric motor boats from Sweden. While we are not directly affiliated with X Shore, we are passionate about the brand and its mission. Through our rental offers, we aim to make these beautiful boats more accessible and create awareness of a growing market for more sustainable and environmentally friendly naval vessles.\n\n\n\nOur X Shore 1 taking a break in Roermond."
+  },
+  {
+    "objectID": "where.html",
+    "href": "where.html",
+    "title": "Where?",
+    "section": "",
+    "text": "Our X Shore 1 is currently at home in the beautiful city of Roermond. The calm waters of Roermond make it an ideal spot for electric boats allowing you to spend an entire day boating without worrying about battery life.\n\n\n\nThe Roermond skyline. Source: Erwin Bongaerts on Unsplash."
   },
   {
     "objectID": "about.html",
@@ -12,5 +26,33 @@
     "title": "About",
     "section": "",
     "text": "xshare provides unique rental access to state-of-the-art electric speed boats by X Shore."
+  },
+  {
+    "objectID": "hero.html",
+    "href": "hero.html",
+    "title": "X Shore go vroom vroom",
+    "section": "",
+    "text": "What? X Shore\n\n\n\n\n\n\n\nWhere? Roermond\n\n\n\n\n\n\n\nWho? Contact\n\n\n\n\n\nPrevoius\n\n\n\nNext\n\n\n\n\n\n\nX Shore go vroom vroom\nX Shore boats for rental."
+  },
+  {
+    "objectID": "who.html",
+    "href": "who.html",
+    "title": "xshare",
+    "section": "",
+    "text": "If you’re interested in trying out our X Shore 1, reach out to [email] with the following details:"
+  },
+  {
+    "objectID": "who.html#get-on-the-water",
+    "href": "who.html#get-on-the-water",
+    "title": "xshare",
+    "section": "",
+    "text": "If you’re interested in trying out our X Shore 1, reach out to [email] with the following details:"
+  },
+  {
+    "objectID": "who.html#who",
+    "href": "who.html#who",
+    "title": "xshare",
+    "section": "Who ?",
+    "text": "Who ?\nMeet Berni, the founder and CEO of X Share. Born in Düsseldorf, Germany, Berni has always been drawn to sea for wind surfing, kite surfing, sailing, beach biking, wing surfing, supping and you-name-it … if it’s active and involves water, chances are Berni has done it. This has brought Berni to Roermond and the broader Netherlands throughout his life."
   }
 ]

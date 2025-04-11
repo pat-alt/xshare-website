@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  execute-dir: project
+  resources: 
+    - "www/"
 
 website:
   title: "xshare"
@@ -8,13 +11,18 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-  page-footer: "Built in Quarto. Powered by a single Raspberry Pi."
+      - href: what.qmd
+      - href: where.qmd
+      - href: who.qmd
+        text: Get on the water ... 
+  page-footer: 
+    right: "Built in Quarto. Powered by a single Raspberry Pi."
+    left: "© 2025, Patrick Altmeyer"
 
 format:
   html:
     theme:
-      - cosmo
+      - theme-light.scss
       - brand
     css: styles.css
     toc: true

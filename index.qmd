@@ -1,7 +1,7 @@
 ---
-title: "xshare"
+toc: false
+page-layout: custom
+css: index.css
 ---
 
-Ever been on a fully electric speed boat? Now you can. Right here in Roermond.
-
-![](www/boat.jpg)
+{{< include hero.qmd >}}

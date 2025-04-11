@@ -1,0 +1,12 @@
+- caption: "What? X Shore"
+  image: /www/boat.jpg 
+  link: /what.qmd
+  
+- caption: "Where? Roermond"
+  image: /www/where.jpeg
+  link: /where.qmd 
+
+- caption: "Who? Contact"
+  image: /www/who.jpg
+  link: /who.qmd 
+  

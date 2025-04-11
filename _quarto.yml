@@ -11,10 +11,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: what.qmd
-      - href: where.qmd
+        icon: house
       - href: who.qmd
-        text: Get on the water ... 
+        text: About 
   page-footer: 
     right: "Built in Quarto. Powered by a single Raspberry Pi."
     left: "© 2025, Patrick Altmeyer"

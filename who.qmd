@@ -1,7 +1,7 @@
 ---
 about:
   template: trestles
-  image: /www/who.jpg
+  image: www/who.jpg
 toc: false
 ---
 

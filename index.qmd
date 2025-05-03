@@ -4,7 +4,6 @@ page-layout: custom
 css: index.css
 ---
 
-
 {{< include hero.qmd >}}
 
 {{< include contact.qmd >}}

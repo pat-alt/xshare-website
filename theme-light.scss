@@ -38,12 +38,14 @@ $footer-bg: lighten($primary, 45%);
 
 .contact-form {
   display: flex;
+  position: relative;
   margin: auto;
-  border: 1px solid blue;
-  width: 740px;
-  height: 650px;
+  border: 1px solid $navbar-bg;
+  width: 100%;
+  min-height: 500px;
   marginheight: 0px;
   marginwidth: 0px;
+  flex-wrap: wrap;
 }
 
 .hero-banner h1, .hero-banner h2, .hero-banner h3, .hero-banner p {

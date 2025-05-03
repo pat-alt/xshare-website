@@ -11,6 +11,7 @@ $navbar-bg: lighten($primary, 45%);
 // Footer
 $footer-bg: lighten($primary, 45%);
 
+/*-- scss:rules --*/
 // Welcome
 .welcome h1 {
   color: #4063D8;
@@ -49,14 +50,14 @@ $footer-bg: lighten($primary, 45%);
 }
 
 .hero-banner h1, .hero-banner h2, .hero-banner h3, .hero-banner p {
-  color: #ffffff
+  color: $primary
 }
 
 // Hero banner 
 .hero-banner {
   position: relative;
-  background-image: url('www/boat.jpg');
-  background-size: fill;
+  background-image: url('www/bg.gif');
+  background-size: cover;
   background-position: center;
   display: flex;
   justify-content: center;

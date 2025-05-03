@@ -1,24 +1,31 @@
 [
   {
-    "objectID": "content/news/news.html",
-    "href": "content/news/news.html",
-    "title": "xshare",
+    "objectID": "carousel.html",
+    "href": "carousel.html",
+    "title": "X Shore go vroom vroom … 🚤🌊",
     "section": "",
-    "text": "What? X Shore\n\n\n\n\n\n\n\nWhere? Roermond\n\n\n\n\n\n\n\nWho? Contact\n\n\n\n\n\nPrevoius\n\n\n\nNext"
+    "text": "What? X Shore\n\n\n\n\n\n\n\nWhere? Roermond\n\n\n\n\n\n\n\nWho? Contact\n\n\n\n\n\nPrevoius\n\n\n\nNext\n\n\n\n\n\n\nX Shore go vroom vroom … 🚤🌊\nX Shore boats for rental."
   },
   {
-    "objectID": "what.html",
-    "href": "what.html",
+    "objectID": "index.html#get-on-the-water",
+    "href": "index.html#get-on-the-water",
     "title": "xshare",
-    "section": "",
-    "text": "X Shore is a pioneering producer of electric motor boats from Sweden. While we are not directly affiliated with X Shore, we are passionate about the brand and its mission. Through our rental offers, we aim to make these beautiful boats more accessible and create awareness of a growing market for more sustainable and environmentally friendly naval vessles.\n\n\n\nOur X Shore 1 taking a break in Roermond."
+    "section": "Get on the water …",
+    "text": "Get on the water …\nIf you’re interested in trying out our X Shore 1, just fill out the contact form below."
   },
   {
-    "objectID": "what.html#what",
-    "href": "what.html#what",
+    "objectID": "contact.html",
+    "href": "contact.html",
     "title": "xshare",
     "section": "",
-    "text": "X Shore is a pioneering producer of electric motor boats from Sweden. While we are not directly affiliated with X Shore, we are passionate about the brand and its mission. Through our rental offers, we aim to make these beautiful boats more accessible and create awareness of a growing market for more sustainable and environmentally friendly naval vessles.\n\n\n\nOur X Shore 1 taking a break in Roermond."
+    "text": "If you’re interested in trying out our X Shore 1, just fill out the contact form below."
+  },
+  {
+    "objectID": "contact.html#get-on-the-water",
+    "href": "contact.html#get-on-the-water",
+    "title": "xshare",
+    "section": "",
+    "text": "If you’re interested in trying out our X Shore 1, just fill out the contact form below."
   },
   {
     "objectID": "who.html",
@@ -44,9 +51,9 @@
   {
     "objectID": "hero.html",
     "href": "hero.html",
-    "title": "X Shore go vroom vroom … 🚤🌊",
+    "title": "x-share",
     "section": "",
-    "text": "What? X Shore\n\n\n\n\n\n\n\nWhere? Roermond\n\n\n\n\n\n\n\nWho? Contact\n\n\n\n\n\nPrevoius\n\n\n\nNext\n\n\n\n\n\n\nX Shore go vroom vroom … 🚤🌊\nX Shore boats for rental."
+    "text": "Feel the buzz\nX Shore boats for rental."
   },
   {
     "objectID": "where.html",
@@ -77,24 +84,24 @@
     "text": "xshare provides unique rental access to state-of-the-art electric speed boats by X Shore."
   },
   {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
+    "objectID": "what.html",
+    "href": "what.html",
     "title": "xshare",
-    "section": "Welcome",
-    "text": "Welcome\nxshare provides unique rental access to state-of-the-art electric speed boats by X Shore."
+    "section": "",
+    "text": "X Shore is a pioneering producer of electric motor boats from Sweden. While we are not directly affiliated with X Shore, we are passionate about the brand and its mission. Through our rental offers, we aim to make these beautiful boats more accessible and create awareness of a growing market for more sustainable and environmentally friendly naval vessles.\n\n\n\nOur X Shore 1 taking a break in Roermond."
   },
   {
-    "objectID": "index.html#what",
-    "href": "index.html#what",
+    "objectID": "what.html#what",
+    "href": "what.html#what",
     "title": "xshare",
-    "section": "What?",
-    "text": "What?\nX Shore is a pioneering producer of electric motor boats from Sweden. While we are not directly affiliated with X Shore, we are passionate about the brand and its mission. Through our rental offers, we aim to make these beautiful boats more accessible and create awareness of a growing market for more sustainable and environmentally friendly naval vessles.\n\n\n\nOur X Shore 1 taking a break in Roermond."
+    "section": "",
+    "text": "X Shore is a pioneering producer of electric motor boats from Sweden. While we are not directly affiliated with X Shore, we are passionate about the brand and its mission. Through our rental offers, we aim to make these beautiful boats more accessible and create awareness of a growing market for more sustainable and environmentally friendly naval vessles.\n\n\n\nOur X Shore 1 taking a break in Roermond."
   },
   {
-    "objectID": "index.html#where",
-    "href": "index.html#where",
+    "objectID": "content/news/news.html",
+    "href": "content/news/news.html",
     "title": "xshare",
-    "section": "Where?",
-    "text": "Where?\nOur X Shore 1 is currently at home in the beautiful city of Roermond. The calm waters of Roermond make it an ideal spot for electric boats allowing you to spend an entire day boating without worrying about battery life.\n\n\n\nThe Roermond skyline. Source: Erwin Bongaerts on Unsplash."
+    "section": "",
+    "text": "What? X Shore\n\n\n\n\n\n\n\nWhere? Roermond\n\n\n\n\n\n\n\nWho? Contact\n\n\n\n\n\nPrevoius\n\n\n\nNext"
   }
 ]

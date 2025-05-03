@@ -1,0 +1,25 @@
+::: {.column-screen}
+
+::: {.wide-banner}
+
+::: {.wide-banner-text}
+
+## Get on the water ...
+
+If you're interested in trying out our X Shore 1, just fill out the contact form below.
+
+:::
+
+:::
+
+:::
+
+::: {.content-block}
+
+::: {.contact-form}
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScky1tcA0CV9wPQ6Ox1YUzwFBYgwo0SZm4omdH6W5p-qtx5rA/viewform?embedded=true" class="contact-form">Loading…</iframe>
+
+:::
+
+:::

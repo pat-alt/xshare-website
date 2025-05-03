@@ -13,42 +13,72 @@ $footer-bg: lighten($primary, 45%);
 
 // Welcome
 .welcome h1 {
-      color: #4063D8;
-        font-size: 3.5rem;
+  color: #4063D8;
+  font-size: 3.5rem;
 }
 
 .welcome h2 {
-      border-bottom: 0cm;
-        margin-top: 0%;
+  border-bottom: 0cm;
+  margin-top: 0%;
+}
+
+.wide-banner {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.wide-banner-text {
+  flex: 1;  
+  margin: 10px;
+}
+
+.contact-form {
+  margin: auto;
+  border: 1px solid blue;
+  width: 740px;
+  height: 650px;
+  marginheight: 0px;
+  marginwidth: 0px;
+}
+
+.hero-banner h1, .hero-banner h2, .hero-banner h3, .hero-banner p {
+  color: #ffffff
 }
 
 // Hero banner 
 .hero-banner {
-      position: relative;
-        background-color: lighten($primary, 40%);
-        display: flex;
-        justify-content: center;
-        padding-left: 30px;
-        padding-right: 30px;
-        // padding-top: 10px;
-      flex-wrap: wrap;
+  position: relative;
+  background-image: url('www/boat.jpg');
+  background-size: fill;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  // padding-top: 10px;
+  flex-wrap: wrap;
 }
 
 .hero-banner-text {
-      flex: 1; /* Each item will take equal space */
-        min-width: 300px; /* Minimum width of each item */
-        margin: 10px;
+  flex: 1; /* Each item will take equal space */
+  min-width: 300px; /* Minimum width of each item */
+  min-height: 600px;
+  margin: 10px;
 }
 
 .hero-banner-carousel {
-      flex: 1; /* Each item will take equal space */
-        min-width: 300px; /* Minimum width of each item */
-        margin: 10px;
+  flex: 1; /* Each item will take equal space */
+  min-width: 300px; /* Minimum width of each item */
+  margin: 10px;
 }
 
 // Carousel
 .carousel {
-      margin-top: 50px;
+  margin-top: 50px;
 }
 
 .carousel img {

@@ -2,12 +2,10 @@
 
 ::: {.hero-banner}
 
-::: {.hero-banner-carousel}
-{{< include content/news/news.qmd >}}
-:::
-
 ::: {.hero-banner-text}
-# X Shore go vroom vroom ... 🚤🌊 
+# x-share
+
+### Feel the buzz
 
 [X Shore](https://xshore.com/) boats for rental. 
 

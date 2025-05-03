@@ -37,10 +37,11 @@ $footer-bg: lighten($primary, 45%);
 }
 
 .contact-form {
+  display: flex;
   margin: auto;
   border: 1px solid blue;
-  width: 740px;
-  height: 650px;
+  max-width: 740px;
+  max-height: 650px;
   marginheight: 0px;
   marginwidth: 0px;
 }

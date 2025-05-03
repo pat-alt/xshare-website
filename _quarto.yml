@@ -7,7 +7,7 @@ project:
     - "CNAME"
 
 website:
-  title: "xshare"
+  title: "x-share"
   navbar:
     left:
       - href: index.qmd
@@ -15,8 +15,9 @@ website:
         icon: house
       - href: who.qmd
         text: About 
+        icon: user
   page-footer: 
-    right: "Built in Quarto. Powered by a single Raspberry Pi."
+    right: "Powered by Quarto. Built on Raspberry Pi."
     left: "© 2025, Patrick Altmeyer"
 
 format:

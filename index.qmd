@@ -12,5 +12,3 @@ css: index.css
 
 {{< include who.qmd >}}
 
-
-:::

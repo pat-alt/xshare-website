@@ -15,8 +15,8 @@ website:
         text: Home
         icon: house
   page-footer: 
-    right: "Powered by Quarto. Built on Raspberry Pi."
-    left: "© 2025, Patrick Altmeyer"
+    right: "Bernward Altmeyer"
+    left: "© 2025, x-share"
 
 format:
   html:

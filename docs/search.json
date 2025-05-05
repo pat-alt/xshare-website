@@ -11,56 +11,20 @@
     "href": "index.html#test-the-x-shore.",
     "title": "x-share",
     "section": "Test the X Shore.",
-    "text": "Test the X Shore.\nJust fill out the contact form below. We’ll reach out to you to set up a test ride."
+    "text": "Test the X Shore.\nJust send us an email with the following information:\n\nFirst Name\nLast Name\nPhone number (optional)\nDo you own a boat?\nDo you have a boating license?\nPreferred date and time for test ride",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
+    "objectID": "index.html#about",
+    "href": "index.html#about",
     "title": "x-share",
-    "section": "",
-    "text": "Just fill out the contact form below. We’ll reach out to you to set up a test ride."
-  },
-  {
-    "objectID": "contact.html#test-the-x-shore.",
-    "href": "contact.html#test-the-x-shore.",
-    "title": "x-share",
-    "section": "",
-    "text": "Just fill out the contact form below. We’ll reach out to you to set up a test ride."
-  },
-  {
-    "objectID": "who.html",
-    "href": "who.html",
-    "title": "x-share",
-    "section": "",
-    "text": "Meet Berni, brand ambassador for X Shore. Born in Düsseldorf, Germany, Berni has always been drawn to sea for wind surfing, kite surfing, sailing, beach biking, wing surfing, supping and you-name-it … if it’s active and involves water, chances are Berni has done it. This has brought Berni to Roermond and the broader Netherlands throughout his life."
-  },
-  {
-    "objectID": "who.html#who",
-    "href": "who.html#who",
-    "title": "x-share",
-    "section": "",
-    "text": "Meet Berni, brand ambassador for X Shore. Born in Düsseldorf, Germany, Berni has always been drawn to sea for wind surfing, kite surfing, sailing, beach biking, wing surfing, supping and you-name-it … if it’s active and involves water, chances are Berni has done it. This has brought Berni to Roermond and the broader Netherlands throughout his life."
-  },
-  {
-    "objectID": "hero.html",
-    "href": "hero.html",
-    "title": "x-share",
-    "section": "",
-    "text": "Feel the buzz. Ride X Shore.\nAbout Us X Shore"
-  },
-  {
-    "objectID": "where.html",
-    "href": "where.html",
-    "title": "x-share",
-    "section": "",
-    "text": "Our X Shore 1 is currently at home in the beautiful city of Roermond. The calm waters of Roermond make it an ideal spot for electric boats allowing you to spend an entire day boating without worrying about battery life.\n\n\n\nThe Roermond skyline. Source: Erwin Bongaerts on Unsplash."
-  },
-  {
-    "objectID": "where.html#where",
-    "href": "where.html#where",
-    "title": "x-share",
-    "section": "",
-    "text": "Our X Shore 1 is currently at home in the beautiful city of Roermond. The calm waters of Roermond make it an ideal spot for electric boats allowing you to spend an entire day boating without worrying about battery life.\n\n\n\nThe Roermond skyline. Source: Erwin Bongaerts on Unsplash."
+    "section": "About",
+    "text": "About\n\n\n\nX Shore Ambassador—Bernward Altmeyer—Düsseldorf",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
     "objectID": "welcome.html",
@@ -77,18 +41,39 @@
     "text": "xshare provides unique rental access to state-of-the-art electric speed boats by X Shore."
   },
   {
-    "objectID": "what.html",
-    "href": "what.html",
+    "objectID": "hero.html",
+    "href": "hero.html",
     "title": "x-share",
     "section": "",
-    "text": "X Shore is a pioneering producer of electric motor boats from Sweden. While we are not directly affiliated with X Shore, we are passionate about the brand and its mission. Through our rental offers, we aim to make these beautiful boats more accessible and create awareness of a growing market for more sustainable and environmentally friendly naval vessles.\n\n\n\nOur X Shore 1 taking a break in Roermond."
+    "text": "Feel the buzz. Ride X Shore.\nAbout X Shore"
   },
   {
-    "objectID": "what.html#what",
-    "href": "what.html#what",
+    "objectID": "who.html",
+    "href": "who.html",
     "title": "x-share",
     "section": "",
-    "text": "X Shore is a pioneering producer of electric motor boats from Sweden. While we are not directly affiliated with X Shore, we are passionate about the brand and its mission. Through our rental offers, we aim to make these beautiful boats more accessible and create awareness of a growing market for more sustainable and environmentally friendly naval vessles.\n\n\n\nOur X Shore 1 taking a break in Roermond."
+    "text": "X Shore Ambassador—Bernward Altmeyer—Düsseldorf"
+  },
+  {
+    "objectID": "who.html#about",
+    "href": "who.html#about",
+    "title": "x-share",
+    "section": "",
+    "text": "X Shore Ambassador—Bernward Altmeyer—Düsseldorf"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "x-share",
+    "section": "",
+    "text": "Just send us an email with the following information:\n\nFirst Name\nLast Name\nPhone number (optional)\nDo you own a boat?\nDo you have a boating license?\nPreferred date and time for test ride"
+  },
+  {
+    "objectID": "contact.html#test-the-x-shore.",
+    "href": "contact.html#test-the-x-shore.",
+    "title": "x-share",
+    "section": "",
+    "text": "Just send us an email with the following information:\n\nFirst Name\nLast Name\nPhone number (optional)\nDo you own a boat?\nDo you have a boating license?\nPreferred date and time for test ride"
   },
   {
     "objectID": "content/news/news.html",

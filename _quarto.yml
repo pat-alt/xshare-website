@@ -8,14 +8,12 @@ project:
 
 website:
   title: "x-share"
-  navbar:
-    left:
+  sidebar:
+    style: "docked"
+    contents:
       - href: index.qmd
         text: Home
         icon: house
-      - href: who.qmd
-        text: About 
-        icon: user
   page-footer: 
     right: "Powered by Quarto. Built on Raspberry Pi."
     left: "© 2025, Patrick Altmeyer"

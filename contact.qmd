@@ -1,21 +1,18 @@
-::: {.column-screen}
-
 ::: {.wide-banner}
 
 ::: {.wide-banner-text}
 
 ## Test the X Shore. 
 
-Just fill out the contact form below. We'll reach out to you to set up a test ride.
+Just send us an [email](mailto:bernward.a@web.de) with the following information:
+
+- [ ] First Name
+- [ ] Last Name
+- [ ] Phone number (optional)
+- [ ] Do you own a boat?
+- [ ] Do you have a boating license?
+- [ ] Preferred date and time for test ride
 
 :::
-
-:::
-
-:::
-
-::: {.content-block}
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScky1tcA0CV9wPQ6Ox1YUzwFBYgwo0SZm4omdH6W5p-qtx5rA/viewform?embedded=true" class="contact-form">Loading…</iframe>
 
 :::

@@ -1,5 +1,3 @@
-::: {.column-screen}
-
 ::: {.hero-banner}
 
 ::: {.hero-banner-text}
@@ -7,10 +5,8 @@
 
 ### Feel the buzz. Ride X Shore.
 
-[About Us](who.qmd){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Find out who's behind x-share."} [X Shore](https://xshore.com/){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Redirect to xshore.com"}
+[About](who.qmd){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Find out who's behind x-share."} [X Shore](https://xshore.com/){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Redirect to xshore.com"}
 
 :::
 
 ::: 
-
-:::

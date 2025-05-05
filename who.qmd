@@ -1,11 +1,12 @@
----
-about:
-  template: trestles
-  image: www/who.jpg
-toc: false
----
+::: {.wide-banner}
 
-## Who ?
+::: {.wide-banner-text}
 
-Meet Berni, brand ambassador for X Shore. Born in Düsseldorf, Germany, Berni has always been drawn to sea for wind surfing, kite surfing, sailing, beach biking, wing surfing, supping and you-name-it ... if it's active and involves water, chances are Berni has done it. This has brought Berni to Roermond and the broader Netherlands throughout his life.
+## About
 
+![X Shore Ambassador---Bernward Altmeyer---Düsseldorf](www/who.jpg){width=400px fig-align="center"}
+
+
+:::
+
+:::

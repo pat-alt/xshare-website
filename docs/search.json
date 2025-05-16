@@ -1,32 +1,5 @@
 [
   {
-    "objectID": "carousel.html",
-    "href": "carousel.html",
-    "title": "X Shore go vroom vroom … 🚤🌊",
-    "section": "",
-    "text": "What? X Shore\n\n\n\n\n\n\n\nWhere? Roermond\n\n\n\n\n\n\n\nWho? Contact\n\n\n\n\n\nPrevoius\n\n\n\nNext\n\n\n\n\n\n\nX Shore go vroom vroom … 🚤🌊\nX Shore boats for rental."
-  },
-  {
-    "objectID": "index.html#test-the-x-shore.",
-    "href": "index.html#test-the-x-shore.",
-    "title": "x-share",
-    "section": "Test the X Shore.",
-    "text": "Test the X Shore.\nJust send us an email with the following information:\n\nFirst Name\nLast Name\nPhone number (optional)\nDo you own a boat?\nDo you have a boating license?\nPreferred date and time for test ride",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "x-share",
-    "section": "About",
-    "text": "About\n\n\n\nX Shore Ambassador—Bernward Altmeyer—Düsseldorf",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
     "objectID": "welcome.html",
     "href": "welcome.html",
     "title": "x-share",
@@ -45,7 +18,28 @@
     "href": "hero.html",
     "title": "x-share",
     "section": "",
-    "text": "Feel the buzz. Ride X Shore.\nAbout X Shore"
+    "text": "Feel the buzz. Ride X Shore.\nWe share E power 170 hp/125 kw.\nWe share passion in E boats.\nWe love Roermond."
+  },
+  {
+    "objectID": "content/news/news.html",
+    "href": "content/news/news.html",
+    "title": "x-share",
+    "section": "",
+    "text": "What? X Shore\n\n\n\n\n\n\n\nWhere? Roermond\n\n\n\n\n\n\n\nWho? Contact\n\n\n\n\n\nPrevoius\n\n\n\nNext"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "x-share",
+    "section": "",
+    "text": "Just send us an email with the following information:\n\nFirst Name\nLast Name\nPhone number (optional)\nDo you own a boat?\nDo you have a boating license?\nPreferred date and time for test ride"
+  },
+  {
+    "objectID": "contact.html#test-me",
+    "href": "contact.html#test-me",
+    "title": "x-share",
+    "section": "",
+    "text": "Just send us an email with the following information:\n\nFirst Name\nLast Name\nPhone number (optional)\nDo you own a boat?\nDo you have a boating license?\nPreferred date and time for test ride"
   },
   {
     "objectID": "who.html",
@@ -62,24 +56,20 @@
     "text": "X Shore Ambassador—Bernward Altmeyer—Düsseldorf"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
+    "objectID": "index.html#test-me",
+    "href": "index.html#test-me",
     "title": "x-share",
-    "section": "",
-    "text": "Just send us an email with the following information:\n\nFirst Name\nLast Name\nPhone number (optional)\nDo you own a boat?\nDo you have a boating license?\nPreferred date and time for test ride"
+    "section": "Test me!",
+    "text": "Test me!\nJust send us an email with the following information:\n\nFirst Name\nLast Name\nPhone number (optional)\nDo you own a boat?\nDo you have a boating license?\nPreferred date and time for test ride",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
-    "objectID": "contact.html#test-the-x-shore.",
-    "href": "contact.html#test-the-x-shore.",
-    "title": "x-share",
+    "objectID": "carousel.html",
+    "href": "carousel.html",
+    "title": "X Shore go vroom vroom … 🚤🌊",
     "section": "",
-    "text": "Just send us an email with the following information:\n\nFirst Name\nLast Name\nPhone number (optional)\nDo you own a boat?\nDo you have a boating license?\nPreferred date and time for test ride"
-  },
-  {
-    "objectID": "content/news/news.html",
-    "href": "content/news/news.html",
-    "title": "x-share",
-    "section": "",
-    "text": "What? X Shore\n\n\n\n\n\n\n\nWhere? Roermond\n\n\n\n\n\n\n\nWho? Contact\n\n\n\n\n\nPrevoius\n\n\n\nNext"
+    "text": "What? X Shore\n\n\n\n\n\n\n\nWhere? Roermond\n\n\n\n\n\n\n\nWho? Contact\n\n\n\n\n\nPrevoius\n\n\n\nNext\n\n\n\n\n\n\nX Shore go vroom vroom … 🚤🌊\nX Shore boats for rental."
   }
 ]

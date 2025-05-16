@@ -15,7 +15,7 @@ website:
         text: Home
         icon: house
   page-footer: 
-    right: "Bernward Altmeyer"
+    right: "Bernward Altmeyer | [About](who.qmd)"
     left: "© 2025, x-share"
 
 format:

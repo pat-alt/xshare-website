@@ -6,9 +6,10 @@ css: index.css
 
 ::: {.column-screen}
 
+
 {{< include hero.qmd >}}
 
 {{< include contact.qmd >}}
 
-{{< include who.qmd >}}
+<!-- {{< include who.qmd >}} -->
 

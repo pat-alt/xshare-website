@@ -4,12 +4,10 @@ page-layout: custom
 css: index.css
 ---
 
-::: {.column-screen}
-
+::: {.column-screen style="padding: 0;"}
 
 {{< include hero.qmd >}}
 
 {{< include contact.qmd >}}
 
-<!-- {{< include who.qmd >}} -->
-
+:::

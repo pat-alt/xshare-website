@@ -10,5 +10,4 @@ css: index.css
 
 {{< include contact.qmd >}}
 
-
 :::

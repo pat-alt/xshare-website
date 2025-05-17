@@ -1,11 +1,12 @@
+<!-- Include the external JavaScript file -->
+<script src="dynamic-text.js"></script><!-- Updated Quarto file with external script and dynamic-text div -->
+
 ::: {.content-block}
 
-## Welcome 
+::: {.hero-banner-text}
+# x-share
 
-We share E power 170 hp/125 kw.
-
-We share passion in E boats.
-
-We love Roermond.
+Feel the buzz. Ride [X Shore](https://xshore.com/).  
+:::
 
 :::

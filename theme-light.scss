@@ -49,7 +49,7 @@ $footer-bg: lighten($primary, 45%);
   flex-wrap: wrap;
 }
 
-.hero-banner h1, .hero-banner h2, .hero-banner h3, .hero-banner p {
+.hero-banner h1, .hero-banner h2, .hero-banner h3, .hero-banner p, .hero-banner a {
   color: $primary
 }
 
@@ -98,34 +98,34 @@ $footer-bg: lighten($primary, 45%);
   flex-wrap: wrap;
 }
 
-// .hero-banner::before {
-//     content: "";
-//       position: absolute;
-//       top: 0;
-//       right: 0;
-//       bottom: 0;
-//       left: 0;
-//       background-color: rgba(255, 255, 255, 0.5);
-// }
+.hero-banner::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(255, 255, 255, 0.2);
+}
 
 .hero-banner-text {
   z-index: 2;
   flex: 1; /* Each item will take equal space */
   min-width: 300px; /* Minimum width of each item */
-  min-height: 600px;
+  min-height: 700px;
   margin: 10px;
 }
 
 .dynamic-text {
-  color: #ffc266;
+  color: $primary;
   font-size: 2.5rem;
-  // margin: 10px;
-  // width: 100%;
-  // left: 0;
-  // bottom: 20px;
-  // position: absolute;
-  // padding-left: 50px;
-  // padding-right: 50px;
+  margin: 10px;
+  width: 100%;
+  left: 0;
+  bottom: 50px;
+  position: absolute;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .hero-banner-carousel {

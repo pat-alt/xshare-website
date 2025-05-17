@@ -17,42 +17,72 @@ document.addEventListener('DOMContentLoaded', function() {
   
   let currentIndex = 0;
   
-  // Function to fade in text
-  function fadeIn() {
-    let opacity = 0;
-    dynamicTextElement.textContent = sentences[currentIndex];
-    dynamicTextElement.style.opacity = 0;
-    
-    const fadeInInterval = setInterval(function() {
-      if (opacity < 1) {
-        opacity += 0.05;
-        dynamicTextElement.style.opacity = opacity;
-      } else {
-        clearInterval(fadeInInterval);
-        // Wait for 2 seconds before fading out
-        setTimeout(fadeOut, 3000);
-      }
-    }, 50);
+  // Create a span element for the text to confine gradient to text width
+  const textSpan = document.createElement('span');
+  textSpan.className = 'gradient-text';
+  dynamicTextElement.appendChild(textSpan);
+  
+  // Create cursor element
+  const cursorSpan = document.createElement('span');
+  cursorSpan.className = 'typing-cursor';
+  cursorSpan.textContent = '|';
+  dynamicTextElement.appendChild(cursorSpan);
+  
+  // Function to simulate typing animation
+  function typeWriter(text, i, fnCallback) {
+    // Check if we've reached the end of the text
+    if (i < text.length) {
+      // Add next character to text span
+      textSpan.textContent = text.substring(0, i+1);
+      
+      // Wait for a random amount of time (between 50-150ms) to simulate human typing
+      setTimeout(function() {
+        typeWriter(text, i + 1, fnCallback)
+      }, Math.random() * 100 + 50);
+    }
+    // If we've reached the end of the text, wait and then call callback
+    else if (typeof fnCallback == 'function') {
+      // Wait 2 seconds then start erasing
+      setTimeout(fnCallback, 2000);
+    }
   }
   
-  // Function to fade out text
-  function fadeOut() {
-    let opacity = 1;
+  // Function to erase text
+  function eraseText(text, i, fnCallback) {
+    if (i >= 0) {
+      // Remove one character
+      textSpan.textContent = text.substring(0, i);
+      
+      // Wait for a random amount of time to simulate human erasing
+      setTimeout(function() {
+        eraseText(text, i - 1, fnCallback)
+      }, Math.random() * 50 + 30);
+    } else if (typeof fnCallback == 'function') {
+      setTimeout(fnCallback, 500); // Wait half a second before typing next sentence
+    }
+  }
+  
+  // Function to start the typing animation cycle
+  function startTyping() {
+    const currentSentence = sentences[currentIndex];
     
-    const fadeOutInterval = setInterval(function() {
-      if (opacity > 0) {
-        opacity -= 0.05;
-        dynamicTextElement.style.opacity = opacity;
-      } else {
-        clearInterval(fadeOutInterval);
+    // Type the current sentence
+    typeWriter(currentSentence, 0, function() {
+      // After typing, erase the sentence
+      eraseText(currentSentence, currentSentence.length, function() {
         // Move to next sentence
         currentIndex = (currentIndex + 1) % sentences.length;
-        // Fade in the next sentence
-        fadeIn();
-      }
-    }, 50);
+        // Start typing the next sentence
+        startTyping();
+      });
+    });
   }
   
   // Start the animation cycle
-  fadeIn();
+  startTyping();
+  
+  // Add blinking cursor animation
+  setInterval(function() {
+    cursorSpan.style.opacity = (cursorSpan.style.opacity === '0' ? '1' : '0');
+  }, 500);
 });

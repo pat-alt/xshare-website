@@ -53,11 +53,35 @@ $footer-bg: lighten($primary, 45%);
   color: $primary
 }
 
-.hero-banner h1 {
+.hero-banner-text h1 {
+  display: inline-block;
   font-size: 4.5rem;
-  background: -webkit-linear-gradient(left, $primary, #eee);
+  background: -webkit-linear-gradient(top left, $primary, #ffc266);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+/* Style for the typing cursor */
+.typing-cursor {
+  display: inline-block;
+  margin-left: 3px;
+  font-weight: bold;
+  color: var(--primary);
+  -webkit-animation: blink 0.7s infinite;
+  animation: blink 0.7s infinite;
+}
+
+/* Animation for blinking cursor */
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@-webkit-keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
 }
 
 // Hero banner 
@@ -93,15 +117,15 @@ $footer-bg: lighten($primary, 45%);
 }
 
 .dynamic-text {
-  color: $primary;
+  color: #ffc266;
   font-size: 2.5rem;
-  margin: 10px;
-  width: 100%;
-  left: 0;
-  bottom: 20px;
-  position: absolute;
-  padding-left: 50px;
-  padding-right: 50px;
+  // margin: 10px;
+  // width: 100%;
+  // left: 0;
+  // bottom: 20px;
+  // position: absolute;
+  // padding-left: 50px;
+  // padding-right: 50px;
 }
 
 .hero-banner-carousel {

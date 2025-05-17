@@ -1,9 +1,31 @@
+<!-- Include the external JavaScript file -->
+<script src="dynamic-text.js"></script><!-- Updated Quarto file with external script and dynamic-text div -->
 ::: {.hero-banner}
 
 ::: {.hero-banner-text}
 # x-share
 
 ### Feel the buzz. Ride [X Shore](https://xshore.com/).  
+
+::: {.dynamic-text}
+
+We share E power 170 hp/125 kw.
+
+We share passion in E boats.
+
+We love Roermond.
+
+:::
+
 :::
 
 ::: 
+
+<!-- Add CSS to ensure proper positioning in the hero banner -->
+<style>
+.hero-banner {
+  position: relative;
+  /* Add your existing hero banner styles here */
+  min-height: 300px; /* Ensure enough height for the banner */
+}
+</style>

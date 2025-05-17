@@ -53,6 +53,13 @@ $footer-bg: lighten($primary, 45%);
   color: $primary
 }
 
+.hero-banner h1 {
+  font-size: 4.5rem;
+  background: -webkit-linear-gradient(left, $primary, #eee);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 // Hero banner 
 .hero-banner {
   position: relative;
@@ -83,6 +90,18 @@ $footer-bg: lighten($primary, 45%);
   min-width: 300px; /* Minimum width of each item */
   min-height: 600px;
   margin: 10px;
+}
+
+.dynamic-text {
+  color: $primary;
+  font-size: 2.5rem;
+  margin: 10px;
+  width: 100%;
+  left: 0;
+  bottom: 20px;
+  position: absolute;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .hero-banner-carousel {

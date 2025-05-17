@@ -92,9 +92,6 @@ $footer-bg: lighten($primary, 45%);
   background-position: center;
   display: flex;
   justify-content: center;
-  padding-left: 50px;
-  padding-right: 50px;
-  // padding-top: 10px;
   flex-wrap: wrap;
 }
 
@@ -114,6 +111,8 @@ $footer-bg: lighten($primary, 45%);
   min-width: 300px; /* Minimum width of each item */
   min-height: 700px;
   margin: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .dynamic-text {

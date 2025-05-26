@@ -1,7 +1,8 @@
-## About
+---
+title: "Bernward Altmeyer"
+about:
+  template: jolla
+  image: www/who.jpg
+---
 
-We share E power 170 hp/125 kw.
-
-We share passion in E boats.
-
-We love Roermond.
+Ambassador X Shore---Dusseldorf
